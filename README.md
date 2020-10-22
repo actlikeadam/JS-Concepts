@@ -27,8 +27,8 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ## Table of Contents
 
-1. **[Call Stack](#1-objects)**
-2. **[Primitive Types](#2-object-destructuring)**
+1. **[Objects](#1-objects)**
+2. **[Object destructuring](#2-object-destructuring)**
 
 ---
 
