@@ -3,25 +3,25 @@
   <img src="/img/JavaScript-logo.png" alt="JS Concepts" width=200"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  Javascript Concepts
   <br><br>
 </h1>
 
 
 ## Introduction
 
-This repository was born after the decision to keep my JS notes neater and why not, trying and help someone else to solve faster problems and doubts which I have already met in the past. Someone said <i>"Sharing is caring"</i>, well, I believe that help the others and help yourself are two faces of the same coin, so, if even one dev out there will get something good out of this, it will have been worthy to exist.
+This repository was born after the decision to keep my JS notes neater and why not, trying and help someone else to solve problems and doubts which I have already met in the past.<br><br>Someone said <i>"Sharing is caring"</i>, well, I believe that help the others and help yourself are two faces of the same coin, so, if even one dev out there will get something good out of this, it will have been worthy to exist.
 
 If you believe that help each other counts more than just knowing more than a colleague or a friend, this is the right place for you. 
 And of course, if you have some good help to share and that hit the points below, please help:
 
-➡ JS related
-➡ Short
-➡ Clear enough to let your 🐶/🐱 to understand the concept
-➡ Applicable and with examples
+➡ JS related<br>
+➡ Short<br>
+➡ Clear enough to let your 🐶/🐱 to understand the concept<br>
+➡ Applicable and with examples<br>
 
 
-I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonardomso</a> and his 33-JS-Concept, I found it after thinking about this idea and really helped to crack on with it. If JS is part of your world you should have a look at it!
+I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonardomso</a> and his 33-JS-Concept, I found it after thinking about this idea and really helped to crack on with it. If JS is part of your world you should have a look at it!<br>
 
 ---
 
@@ -44,11 +44,11 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
  * 🗞 [How to Add, Modify, or Access JavaScript Object Literal Properties - Dyn-web](https://www.dyn-web.com/tutorials/object-literal/properties.php)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
 
-## 2. Object destructuring (Array are objects too!)
+## 2. Object destructuring (Array are objects too)
 
 ### Articles
 
@@ -57,6 +57,6 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
  * 🗞 [ES6: use destructuring assignment to unpack things into different values — Freecodecamp](https://forum.freecodecamp.org/t/es6-use-destructuring-assignment-to-assign-variables-from-objects-help/223672)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
