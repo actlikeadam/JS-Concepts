@@ -38,9 +38,9 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
  * 🗞&nbsp; [Object.defineProperty() - Javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
  * 🗞&nbsp; [Delete operator - Javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
-      🖋&nbsp;  This is for object in JS. Differently from others languages, memory in JS is freed by breaking references
+      <small>🖋&nbsp;  This is for object in JS. Differently from others languages, memory in JS is freed by breaking references</small>
  * 🗞&nbsp; [How to return object from function in JavaScript? - IncludeHelp](https://www.includehelp.com/code-snippets/return-object-from-function-in-javascript.aspx)
-      🖋&nbsp;  If you choose to return an object from a function, after importing the file with the function in it, create a new CONST(es xyz) and assign that function. From there, to use the object properties, just call xyz.property
+      <small>🖋&nbsp;  If you choose to return an object from a function, after importing the file with the function in it, create a new CONST(es xyz) and assign that function. From there, to use the object properties, just call xyz.property</small>
  * 🗞&nbsp; [How to Add, Modify, or Access JavaScript Object Literal Properties - Dyn-web](https://www.dyn-web.com/tutorials/object-literal/properties.php)
 
 
