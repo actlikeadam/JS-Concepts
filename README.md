@@ -36,6 +36,10 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ### Articles
 
+
+
+ * 🗞&nbsp; [What is an object in Javascript - Javatpoint](https://www.javatpoint.com/javascript-objects)
+      * 🖋&nbsp;  A javaScript object is an entity (a thing) having state and behavior (properties and method). For example: car, pen, bike.
  * 🗞&nbsp; [Object.defineProperty() - Javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
  * 🗞&nbsp; [Delete operator - Javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
       * 🖋&nbsp;  This is for object in JS. Differently from others languages, memory in JS is freed by breaking references
