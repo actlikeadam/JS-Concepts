@@ -53,8 +53,8 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 ### Articles
 
  * 🗞&nbsp; [Destructuring assignment - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
- * 🗞&nbsp; [How to Use Array and Object Destructuring in JavaScript - Freecodecamp](https://www.freecodecamp.org/news/array-and-object-destructuring-in-javascript/)
- * 🗞&nbsp; [ES6: use destructuring assignment to unpack things into different values — Freecodecamp](https://forum.freecodecamp.org/t/es6-use-destructuring-assignment-to-assign-variables-from-objects-help/223672)
+ * 🗞&nbsp; [How to Use Array and Object Destructuring in JavaScript - freeCodeCamp](https://www.freecodecamp.org/news/array-and-object-destructuring-in-javascript/)
+ * 🗞&nbsp; [ES6: use destructuring assignment to unpack things into different values — freeCodeCamp](https://forum.freecodecamp.org/t/es6-use-destructuring-assignment-to-assign-variables-from-objects-help/223672)
 
 
 **[⬆&nbsp; Back to Top](#table-of-contents)**
