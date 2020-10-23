@@ -71,7 +71,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 ### Articles
 
  * 🗞&nbsp; [How To Use Classes in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
- * 🗞&nbsp; [[⬆propedeutic]How To Work with Prototypes and Inheritance in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+ * 🗞&nbsp; [[⬆&nbsp;preparatory]How To Work with Prototypes and Inheritance in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
  
 
 **[⬆&nbsp; Back to Top](#table-of-contents)**
