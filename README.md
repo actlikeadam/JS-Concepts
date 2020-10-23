@@ -52,7 +52,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ---
 
-## 2. Object destructuring (Array are objects too)
+## 2. Object destructuring (🖋 Array are objects too)
 
 ### Articles
 
