@@ -66,7 +66,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ---
 
-## 2. Classes (🖋 classes are functions)
+## 3. Classes (🖋 classes are functions)
 
 ### Articles
 
