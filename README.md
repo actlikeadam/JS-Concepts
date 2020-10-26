@@ -29,7 +29,8 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 1. **[Objects](#1-objects)**
 2. **[Object destructuring](#2-object-destructuring)**
-2. **[Classes](#3-classes)**
+3. **[Classes](#3-classes)**
+4. **[AsynchronousJS](#4-Asynchronous-JS)**
 
 ---
 
@@ -72,6 +73,17 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
  * 🗞&nbsp; [How To Use Classes in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
  * 🗞&nbsp; [⬆&nbsp; preparatory][How To Work with Prototypes and Inheritance in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+ 
+
+**[⬆&nbsp; Back to Top](#table-of-contents)**
+
+---
+
+## 4. Asynchronous JS
+
+### Articles
+
+ * 🗞&nbsp; [Learn JavaScript: Async-Await Cheatsheet | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/asynch-js/cheatsheet)
  
 
 **[⬆&nbsp; Back to Top](#table-of-contents)**
