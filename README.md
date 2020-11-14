@@ -31,6 +31,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 2. **[Object destructuring](#2-object-destructuring)**
 3. **[Classes](#3-classes)**
 4. **[AsynchronousJS](#4-Asynchronous-JS)**
+5. **[Glossary and interviews (what is what??)](#5-glossary-and-interviews)**
 
 ---
 
@@ -89,3 +90,15 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 **[⬆&nbsp; Back to Top](#table-of-contents)**
 
 ---
+
+## 5. Glossary and interviews (what is what??)
+
+### Articles
+
+ * 🗞&nbsp; The JavaScript Cheatsheet you need in 2020 | by Stefania Simon | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
+ 
+
+**[⬆&nbsp; Back to Top](#table-of-contents)**
+
+---
+
