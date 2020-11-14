@@ -31,7 +31,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 2. **[Object destructuring](#2-object-destructuring)**
 3. **[Classes](#3-classes)**
 4. **[AsynchronousJS](#4-Asynchronous-JS)**
-5. **[Glossary and interviews (what is what??)](#5-glossary-and-interviews)**
+5. **[Glossary and interviews (what is what??)](5-glossary-and-interviews-what-is-what)**
 
 ---
 
