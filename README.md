@@ -28,10 +28,10 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 ## Table of Contents
 
 1. **[Objects](#1-objects)**
-2. **[Object destructuring](#2-object-destructuring)**
-3. **[Classes](#3-classes)**
+2. **[Object destructuring](#2-object-destructuring--array-are-objects-too)**
+3. **[Classes](#3-classes--classes-are-functions)**
 4. **[AsynchronousJS](#4-Asynchronous-JS)**
-5. **[Glossary and interviews (what is what??)](5-glossary-and-interviews-what-is-what)**
+5. **[Glossary and interviews (what is what??)](#5-glossary-and-interviews-what-is-what)**
 
 ---
 
