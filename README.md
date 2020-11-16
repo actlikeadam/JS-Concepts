@@ -95,7 +95,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ### Articles
 
- * 🗞&nbsp; The JavaScript Cheatsheet you need in 2020 | by Stefania Simon | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
+ * 🗞&nbsp; JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
  
 
 **[⬆&nbsp; Back to Top](#table-of-contents)**
