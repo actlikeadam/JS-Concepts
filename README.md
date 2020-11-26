@@ -32,6 +32,8 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 3. **[Classes](#3-classes--classes-are-functions)**
 4. **[AsynchronousJS](#4-Asynchronous-JS)**
 5. **[Glossary and interviews (what is what??)](#5-glossary-and-interviews-what-is-what)**
+6. **[ES6](#6-ES6)**
+7. **[Symbols and syntax](#7-symbols-and-syntax)**
 
 ---
 
@@ -101,4 +103,25 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 **[⬆&nbsp; Back to Top](#table-of-contents)**
 
 ---
+## 6. ES6
+### Articles
+
+ * 🗞&nbsp; 
+ 
+
+**[⬆&nbsp; Back to Top](#table-of-contents)**
+
+---
+
+## 7. Symbols and syntax
+
+### Articles
+
+ * 🗞&nbsp; 
+ 
+
+**[⬆&nbsp; Back to Top](#table-of-contents)**
+
+---
+
 
