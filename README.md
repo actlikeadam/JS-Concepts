@@ -104,9 +104,17 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ---
 ## 6. ES6
-### Articles
+### Const, let, var
 
- * 🗞&nbsp; 
+ * 🗞&nbsp;
+ 
+### Modules
+
+ * 🗞&nbsp;
+ 
+ ### Template literals
+
+ * 🗞&nbsp;
  
 
 **[⬆&nbsp; Back to Top](#table-of-contents)**
