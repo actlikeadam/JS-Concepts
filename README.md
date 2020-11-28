@@ -34,6 +34,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 5. **[Glossary and interviews (what is what??)](#5-glossary-and-interviews-what-is-what)**
 6. **[ES6](#6-ES6)**
 7. **[Symbols and syntax](#7-symbols-and-syntax)**
+8. **[Modules](#8-Modules)**
 
 ---
 
@@ -122,6 +123,17 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 ---
 
 ## 7. Symbols and syntax
+
+### Articles
+
+ * 🗞&nbsp; 
+ 
+
+**[⬆&nbsp; Back to Top](#table-of-contents)**
+
+---
+
+## 8. Modules
 
 ### Articles
 
