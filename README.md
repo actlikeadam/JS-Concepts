@@ -98,7 +98,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ### Articles
 
- * 🗞&nbsp; JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
+ * 🗞&nbsp; [JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
  
 
 **[⬆&nbsp; Back to Top](#table-of-contents)**
@@ -107,8 +107,10 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 ## 6. ES6
 ### Const, let, var
 
- * 🗞&nbsp;
+ * 🗞&nbsp; [JavaScript ES6+: var, let, or const? | by Eric Elliott | JavaScript Scene | Medium](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+ * 🗞&nbsp; [Understanding Variables, Scope, and Hoisting in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript#difference-between-var,-let,-and-const)
  
+
 ### Modules
 
  * 🗞&nbsp;
