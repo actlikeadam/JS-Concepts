@@ -31,9 +31,9 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 2. **[Object destructuring](#2-object-destructuring--array-are-objects-too)**
 3. **[Classes](#3-classes--classes-are-functions)**
 4. **[AsynchronousJS](#4-Asynchronous-JS)**
-5. **[Glossary and interviews (what is what??)](#5-glossary-and-interviews-what-is-what)**
+5. **[Interviews](#5-interviews)**
 6. **[ES6](#6-ES6)**
-7. **[Symbols and syntax](#7-symbols-and-syntax)**
+7. **[Glossary, symbols and syntax](#7-glossary-symbols-and-syntax-what-is-what)**
 
 ---
 
@@ -104,6 +104,10 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ---
 ## 6. ES6
+### General
+
+* 🗞&nbsp; [JavaScript ES6 — write less, do more | by SaidHayani@ | freeCodeCamp.org](https://medium.com/free-code-camp/write-less-do-more-with-javascript-es6-5fd4a8e50ee2)
+
 ### Const, let, var
 
  * 🗞&nbsp; [JavaScript ES6+: var, let, or const? | by Eric Elliott | JavaScript Scene | Medium](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
@@ -124,7 +128,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ---
 
-## 7. Symbols and syntax
+## 7. Glossary, symbols and syntax (what is what??)
 
 ### Articles
 
