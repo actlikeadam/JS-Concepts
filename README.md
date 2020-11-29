@@ -93,7 +93,7 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
 ---
 
-## 5. Glossary and interviews (what is what??)
+## 5. Interviews
 
 ### Articles
 
