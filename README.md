@@ -109,11 +109,12 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 
  * 🗞&nbsp; [JavaScript ES6+: var, let, or const? | by Eric Elliott | JavaScript Scene | Medium](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
  * 🗞&nbsp; [Understanding Variables, Scope, and Hoisting in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript#difference-between-var,-let,-and-const)
- 
+ * 🗞&nbsp; [⬆&nbsp; preparatory][Understanding Data Types in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-data-types-in-javascript)
 
 ### Modules
 
- * 🗞&nbsp;
+ * 🗞&nbsp; [ES Modules, the JavaScript Module System | Flavio Copes](https://flaviocopes.com/es-modules/)
+ * 🗞&nbsp; [CommonJS JavaScript Module Format, an introduction | Flavio Copes](https://flaviocopes.com/commonjs/)
  
  ### Template literals
 
