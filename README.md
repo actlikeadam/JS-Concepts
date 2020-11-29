@@ -98,7 +98,6 @@ I would like to say thanks to <a href="https://github.com/leonardomso/33">Leonar
 ### Articles
 
  * 🗞&nbsp; [JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
- https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
  * 🗞&nbsp; [10 Interview Questions Every JavaScript Developer Should Know | by Eric Elliott | Medium](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
  
 
